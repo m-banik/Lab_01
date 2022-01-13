@@ -1,0 +1,7 @@
+# Directories.
+/__pycache__
+*/__pycache__
+/backup
+
+# Files.
+*.pdf
